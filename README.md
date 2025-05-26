@@ -15,6 +15,12 @@ Additionally, the app uses **Geolocation** to get the current location of the us
 - ⚙️ **Fast and Lightweight** – Built with React + Vite for blazing speed.
 
 ---
+## Screen snippets
+<img width="960" alt="{86B093FA-D228-4963-B394-51D32C63639C}" src="https://github.com/user-attachments/assets/93030f00-7694-414d-834d-3992a1dd1b6b" />
+<img width="960" alt="{04EBF039-2CEE-4599-B841-D732FDBD8C00}" src="https://github.com/user-attachments/assets/44702853-ec05-4e8f-90e2-840a1b41fa9d" />
+
+### Using Geolocation
+<img width="960" alt="{C7E2B00C-30E8-462E-A800-2E034A536915}" src="https://github.com/user-attachments/assets/4ade62ef-33ef-4a83-be9e-825b8252dd87" />
 
 ## 🧰 Built With
 
